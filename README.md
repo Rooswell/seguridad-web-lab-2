@@ -11,3 +11,10 @@ php artisan serve
 
 POST /api/ssrf/vulnerable-fetch
 POST /api/ssrf/safe-fetch
+
+## SQL Injection Lab
+
+Endpoints:
+
+POST /api/sqli/vulnerable-login  
+POST /api/sqli/safe-login
